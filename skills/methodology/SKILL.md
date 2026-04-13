@@ -190,7 +190,7 @@ work/{feature}/
 
 Completed features are archived to `work/completed/{feature}/`.
 
-### Global Structure `.claude/`
+### Project Structure `.claude/`
 
 ```
 .claude/
@@ -199,7 +199,7 @@ Completed features are archived to `work/completed/{feature}/`.
 ├── commands/             # Slash commands
 ├── shared/               # Templates, scripts, interview plans
 ├── hooks/                # Automation hooks
-└── CLAUDE.md             # Global instructions
+└── CLAUDE.md             # Project instructions
 ```
 
 ---
